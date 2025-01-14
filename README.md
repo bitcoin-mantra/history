@@ -26,7 +26,7 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 
 ![halving-spiral-black](/assets/img/halving-spiral-black.png)
 
-**Source:**[https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/?rdt=63663](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/?rdt=63663)
+**Original Source:**[Link to Reddit Post](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/?rdt=63663)
 
 - Reached $1: February 2011
 

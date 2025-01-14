@@ -28,24 +28,16 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 
 **Original Source:**[Link to Reddit Post](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/?rdt=63663)
 
-- **Reached $1: February 2011**
+### Milestones:
+- **Reached $1: February 2011** Bitcoin gained initial recognition and crossed the $1 mark during early adoption.
 
-Bitcoin gained initial recognition and crossed the $1 mark during early adoption.
+- **Reached $100: April 2013** Increased interest from tech enthusiasts and early investors drove the price upward.
 
-- **Reached $100: April 2013**
+- **Reached $1,000: November 2013** Fueled by speculative interest, it briefly crossed $1,000 before facing a significant correction.
 
-Increased interest from tech enthusiasts and early investors drove the price upward.
+- **Reached $10,000: November 2017** Bitcoin's surge was driven by institutional interest, increased adoption, and global media coverage.
 
-- **Reached $1,000: November 2013**
-
-Fueled by speculative interest, it briefly crossed $1,000 before facing a significant correction.
-
-- **Reached $10,000: November 2017**
-
-Bitcoin's surge was driven by institutional interest, increased adoption, and global media coverage.
-
-- **Reached $100,000: December 2024**
-Reaching $100K milestone on Dec 5 is breaking a psychological level, registered in history after the 4th halving and spot BTC ETF approvals within USA.
+- **Reached $100,000: December 2024** Reaching $100K milestone on Dec 5 is breaking a psychological level, registered in history after the 4th halving and spot BTC ETF approvals within USA.
 
 ![halving-spiral-black](/assets/img/halving-timeline.png)
 
@@ -125,14 +117,14 @@ No global ledger: Did not use a blockchain to prevent double-spending.
 
 Bitcoin improved upon these attempts by introducing a decentralized blockchain, robust proof-of-work consensus, pseudonymity, and a self-sustaining incentive structure for miners, which resolved many of the drawbacks of earlier systems.
 
-## How many Bitcoin does its inventor Satoshi Nakamoto still own?
+### How many Bitcoin does its inventor Satoshi Nakamoto still own?
 
 In the first seven months of Bitcoin's existence, Bitcoin creator Satoshi Nakamoto mined as many as 1.1 million Bitcoin (out of total 21 million coins). Also, this is believed that Satoshi has never moved these coins means bitcoin is more scarce than what we think for humanity.
 
 **Read More:** 
 [https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
 
-## Cyber Punk movement result in Bitcoin.
+### Cyber Punk movement result in Bitcoin(YouTube Videos):
 
 [Bitcoin and the End of History](https://www.youtube.com/watch?v=HDKQulqVCQg&t=6s)
 

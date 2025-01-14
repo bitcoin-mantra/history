@@ -23,3 +23,7 @@ As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, 
 ### What is Bitcoin Halving?
 
 Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces the reward miners receive for mining new blocks by half. It occurs approximately every 210,000 blocks, or roughly every four years, as part of Bitcoin’s deflationary monetary policy.
+
+![halving-spiral-black](/assets/img/halving-spiral-black.png)
+
+[Source:](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/?rdt=63663)

@@ -28,21 +28,24 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 
 **Original Source:**[Link to Reddit Post](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/?rdt=63663)
 
-- Reached $1: February 2011
+- **Reached $1: February 2011**
 
 Bitcoin gained initial recognition and crossed the $1 mark during early adoption.
 
-- Reached $100: April 2013
+- **Reached $100: April 2013**
 
 Increased interest from tech enthusiasts and early investors drove the price upward.
 
-- Reached $1,000: November 2013
+- **Reached $1,000: November 2013**
 
 Fueled by speculative interest, it briefly crossed $1,000 before facing a significant correction.
 
-- Reached $10,000: November 2017
+- **Reached $10,000: November 2017**
 
 Bitcoin's surge was driven by institutional interest, increased adoption, and global media coverage.
+
+- **Reached $100,000: December 2024**
+Reaching $100K milestone on Dec 5 is breaking a psychological level, registered in history after the 4th halving and spot BTC ETF approvals within USA.
 
 ![halving-spiral-black](/assets/img/halving-timeline.png)
 
@@ -50,9 +53,7 @@ Bitcoin's surge was driven by institutional interest, increased adoption, and gl
 
 ### ETA for Future Milestones
 
-$100,000: Speculative estimates range from late 2024 to 2025, based on trends like Bitcoin halving (in April 2024) and adoption growth.
-
-$1,000,000: Optimistic forecasts suggest the possibility between 2030 and 2040, driven by scarcity (fixed supply of 21 million BTC) and institutional acceptance as digital gold.
+**$1,000,000**: $1M Optimistic forecasts suggest the possibility between 2030 and 2040, driven by scarcity (fixed supply of 21 million BTC) and institutional acceptance as digital gold.
 
 Note: These projections depend heavily on market conditions, regulatory developments, and global economic factors. Bitcoin remains volatile and speculative.
 

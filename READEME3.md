@@ -1,4 +1,4 @@
-#₿(Bitcoin)- Designing your Own Customized Investment Portfolio (Part#4)
+# ₿(Bitcoin)- Designing your Own Customized Investment Portfolio (Part#4)
 
 This topic is to share my learning during designing of my own BTC portfolio process. Goal is to giving you stepping stone, so you can design your own customized BTC portfolio. I have made few assumptions to keep examples and calculations easy to grasp, due to different risk appetite and age group few calculations (related to salary and portfolio % toward BTC investment) might differ for individual investors.
 

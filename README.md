@@ -59,7 +59,6 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 ### 1. DigiCash
 Creator: David Chaum
 Year of Creation: 1989
-
 **Drawbacks**:
 - Centralized: DigiCash required a trusted third party to process transactions, unlike Bitcoin's decentralized system.
 - Lack of adoption: Limited interest from banks and institutions led to its failure.
@@ -68,7 +67,6 @@ Bankruptcy: DigiCash went bankrupt in 1998.
 ### 2. e-gold
 Creator: Douglas Jackson and Barry Downey
 Year of Creation: 1996
-
 **Drawbacks:**
 - Centralized: Controlled by a single entity, making it susceptible to legal actions.
 - Legal issues: It was shut down in 2009 after being linked to money laundering.
@@ -77,7 +75,6 @@ Year of Creation: 1996
 ### 3. Hashcash
 Creator: **Adam Back**
 Year of Creation: 1997
-
 **Drawbacks:**
 - Limited functionality: Originally designed to prevent email spam, not as a currency.
 - No blockchain: It lacked a ledger system to record and verify transactions.
@@ -86,7 +83,6 @@ Year of Creation: 1997
 ### 4. b-money
 Creator: Wei Dai
 Year of Proposal: 1998
-
 **Drawbacks**:
 - Never implemented: It remained a theoretical proposal and was never deployed.
 - No robust consensus: Lacked a practical mechanism to achieve distributed consensus like Bitcoin's proof-of-work.
@@ -94,7 +90,6 @@ Year of Proposal: 1998
 ### 5. Bit Gold
 Creator: Nick Szabo
 Year of Proposal: 1998
-
 **Drawbacks:**
 - No implementation: Like b-money, it was never fully realized.
 - Lack of incentives: Did not have a built-in reward system for miners like Bitcoin.

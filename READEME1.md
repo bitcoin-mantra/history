@@ -4,7 +4,7 @@ This is continuation of [Part#1](https://vinaybaatcheet.wordpress.com/2024/11/26
 Let me introduce you to some of the prominent figures in the Bitcoin community (I call them ₿-hero's) individuals who live, breathe, continuously learn, and actively share their knowledge. Let's learn from the experts!
 
 * * * * *
-<img src="![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-9.55.52e280afpm.png)" width="400" height="400">
+<img src="/assets/img1/Preston.png" width="400" height="400">
 
 ![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-9.55.52e280afpm.png)
 

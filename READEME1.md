@@ -4,10 +4,7 @@ This is continuation of [Part#1](https://vinaybaatcheet.wordpress.com/2024/11/26
 Let me introduce you to some of the prominent figures in the Bitcoin community (I call them ₿-hero's) individuals who live, breathe, continuously learn, and actively share their knowledge. Let's learn from the experts!
 
 * * * * *
-<img src="![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-9.55.52e280afpm.png)" width="400" height="400">
-
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-9.55.52e280afpm.png)
-
+<img src="/assets/img1/Preston.png" width="400" height="400">
 [**#1 Preston Pysh**](https://www.theinvestorspodcast.com/our-team/)
 
 Preston tops my list for a reason, as I've been following him since 2019, when I began understanding the world of [value investing](https://www.investopedia.com/terms/v/valueinvesting.asp). I have benefited from his work a lot and appreciate his contribution toward to the investing community. He's an entrepreneur, investor, author, and cryptocurrency proponent. He's the founder of [BuffettsBooks.com](https://buffettsbooks.com/), and his videos on financial investing have been viewed by millions of people around the world. Preston graduated from the United States Military Academy at West Point in 2003 with a Bachelor of Science in **Aerospace Engineering**.
@@ -20,7 +17,7 @@ Preston also publishes a Bitcoin podcast every Wednesday and has already recorde
 
 * * * * *
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-10.27.55e280afpm.png)
+<img src="/assets/img1/JeffBooth.png" width="400" height="400">
 
 [**#2 Jeff Booth**](https://www.jeffbooth.ca/)
 
@@ -32,7 +29,7 @@ https://www.youtube.com/watch?v=SL1ca-BuIS8
 
 * * * * *
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-10.43.23e280afpm.png?w=1024)
+<img src="/assets/img1/Saifu.png" width="400" height="400">
 
 [**#3 Saifedean Ammous**](https://saifedean.com/)
 
@@ -48,7 +45,7 @@ https://www.youtube.com/watch?v=t1brCcgi174
 
 * * * * *
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-10.47.43e280afpm.png?w=834)
+<img src="/assets/img1/MSaylor.png" width="400" height="400">
 
 [**#4 Michael Saylor**](https://www.michael.com/)
 
@@ -68,7 +65,7 @@ https://www.youtube.com/watch?v=gCfA1lkmJo4
 
 * * * * *
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-27-at-11.03.02e280afpm.png?w=856)
+<img src="/assets/img1/Kashif.png" width="400" height="400">
 
 [**#5 Kashif Raza**](https://www.bitinning.com/)
 

@@ -1,3 +1,4 @@
+# History of ₿(Bitcoin), Pre-history & Satoshi Bitcoin Holding (Part#1)
 This is continuation of [Part#1](https://vinaybaatcheet.wordpress.com/2024/11/26/history-of-bitcoin-pre-history-genesis-block-satoshi-bitcoin-holding/) where we covered History of Bitcoin. Now, lets enhance our knowledge about Bitcoin by learning from one of the best with in our industry:
 
 Let me introduce you to some of the prominent figures in the Bitcoin community (I call them ₿-hero's) individuals who live, breathe, continuously learn, and actively share their knowledge. Let's learn from the experts!

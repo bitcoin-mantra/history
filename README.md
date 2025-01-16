@@ -109,7 +109,7 @@ In the first seven months of Bitcoin's existence, Bitcoin creator Satoshi Nakamo
 [https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
 
 ### Cyber Punk movement result in Bitcoin(YouTube Videos):
-
-[![Bitcoin and the End of History](https://img.youtube.com/vi/HDKQulqVCQg&t/0.jpg)](https://www.youtube.com/watch?v=HDKQulqVCQg&t=6s)
+**Bitcoin and the End of History**
+[![Bitcoin and the End of History](https://img.youtube.com/vi/HDKQulqVCQg/0.jpg)](https://www.youtube.com/watch?v=HDKQulqVCQg&t=6s)
 
 [![Before the Web: The 1980s Dream of a Free and Borderless Virtual World (Pt.1)](https://img.youtube.com/vi/YWh6Yzr12iQ/0.jpg)](https://www.youtube.com/watch?v=YWh6Yzr12iQ&list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42&t=1s)
